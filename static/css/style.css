@@ -1,0 +1,20 @@
+*{
+    padding:0px;
+    margin: 0px;
+    vertical-align: top;
+}
+
+body{
+    display:flex;
+    justify-content: center;
+}
+/* .container{
+    display:flex;
+} */
+table, thead,tbody {
+    text-align: center;
+}
+thead{
+    background-color: #343a40;
+    color: goldenrod;
+}
